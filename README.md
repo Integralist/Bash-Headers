@@ -2,6 +2,8 @@
 
 A CLI HTTP Headers Filtering Tool (written in Bash)
 
+> Note: before this I had built a Go version called "[carbon](https://github.com/Integralist/carbon)"
+
 ## Install
 
 Either source this script within your `.bashrc` or copy/paste it directly
