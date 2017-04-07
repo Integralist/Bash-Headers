@@ -22,7 +22,7 @@ X-Cache: HIT
 X-Timer: S1488622963.657342,VS0,VE0
 ```
 
-Set endpoint but default to showing all the available HTTP response headers:
+Set endpoint but default to showing all the available HTTP response headers (sorted alphabetically):
 
 ```bash
 $ headers http://www.integralist.co.uk/
